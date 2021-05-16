@@ -26,9 +26,8 @@ Im Curently Learning python and Telethon
 
 - State- India, Delhi
 
-- Class- 12th
+- Class- 11th
 
-- Fun Fact- I never studied due to my excitment towards python😂😂
 
 ### My Device
 
