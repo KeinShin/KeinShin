@@ -7,7 +7,9 @@
 
 ### Heres About Me -
 
-Im Curently Learning python and reading pyrogram docs and currently working on Black Lightning Rebirth.
+- Im Curently Learning python and reading pyrogram docs
+
+- Currently working on Black Lightning Rebirth.
 
 
 # MOST USED LANGUAGE
