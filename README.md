@@ -7,11 +7,8 @@
 
 ### Heres About Me -
 
-Im Curently Learning python and Telethon 
+Im Curently Learning python and reading pyrogram docs and currently working on Black Lightning Rebirth.
 
-- I did some silly mistake like not giving credits
-
-- I Reallised That Makin A Modules Takes effort 
 
 # MOST USED LANGUAGE
 
