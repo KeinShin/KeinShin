@@ -7,9 +7,10 @@
 
 ### Heres About Me -
 
-- Im Curently Learning python and reading pyrogram docs
-
-- Currently working on Black Lightning Rebirth.
+- 🌱 I’m currently learning Python Pyrogram
+- 💬 Ask me about anything, I am happy to help you
+- Fun-Fact: I'm Noob
+- Reach me at [Telegram](t.me/keinshin)
 
 
 # MOST USED LANGUAGE
